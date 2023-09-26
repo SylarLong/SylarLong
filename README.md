@@ -2,13 +2,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylarlong&layout=compact&theme=dark" align="right">
 
+<img src="https://github-stats.liuli.lol/api?username=SylarLong&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs">
+
 - 🔭 working on some interests like Zi Wei Dou Shu
 - 🌱 learning modern front-end techs
 - 🤔 I’m looking for help with astrology
 - 💬 Ask me about [iztro](http://github.com/SylarLong/iztro)
 - ⚡ Fun fact: interested in Occultism
 
-<img src="https://github-stats.liuli.lol/api?username=SylarLong&theme=dark&show_icons=true&include_all_commits=true&count_private=true" align="right">
 
 ### Languages and Tools
 
