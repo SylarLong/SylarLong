@@ -29,6 +29,11 @@
 <code><a href="https://github.com/topics/sass" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></a></code>
 <code><a href="https://github.com/topics/storybook" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></a></code>
 <code><a href="https://github.com/topics/nextjs" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></a></code>
+<code><a href="https://github.com/topics/ajax" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png"></a></code>
+<code><a href="https://github.com/topics/bootstrap" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/bootstrap/bootstrap.png"></a></code>
+<code><a href="https://github.com/topics/express" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/express/express.png"></a></code>
+<code><a href="https://github.com/topics/jquery" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/jquery/jquery.png"></a></code>
+<code><a href="https://github.com/topics/json" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/json/json.png"></a></code>
 
 ### How to reach me
 
