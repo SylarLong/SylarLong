@@ -12,6 +12,8 @@
 
 <a href = "mailto:sylarlong@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylarlong&layout=compact&theme=dark" align="right">
+
 ### Languages and Tools
 
 <code><a href="https://github.com/topics/javascript" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
@@ -30,3 +32,4 @@
 <code><a href="https://github.com/topics/sass" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></a></code>
 <code><a href="https://github.com/topics/storybook" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png"></a></code>
 <code><a href="https://github.com/topics/nextjs" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></a></code>
+
