@@ -4,8 +4,8 @@ I'm a ✨ _cats lover_ ✨
 
 <img src="https://github-stats.liuli.lol/api?username=SylarLong&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" align="right">
 
-- 🔭 I’m currently working on some interests
-- 🌱 I’m currently learning modern front-end techs
+- 🔭 working on some interests
+- 🌱 learning modern front-end techs
 - 🤔 I’m looking for help with astrology
 - 💬 Ask me about [iztro](http://github.com/SylarLong/iztro)
 - 📫 How to reach me: sylarlong@gmail.com
