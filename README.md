@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-stats.liuli.lol/api?username=SylarLong&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" align="right">
+<img src="https://github-stats.liuli.lol/api?username=SylarLong&theme=dark&show_icons=true&include_all_commits=true&count_private=true" align="right">
 
 - 🔭 working on some interests
 - 🌱 learning modern front-end techs
