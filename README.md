@@ -1,18 +1,20 @@
 ### Hi there 👋
 
-<img src="https://github-stats.liuli.lol/api?username=SylarLong&theme=dark&show_icons=true&include_all_commits=true&count_private=true" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylarlong&layout=compact&theme=dark" align="right">
 
-- 🔭 working on some interests
+- 🔭 working on some interests like Zi Wei Dou Shu
 - 🌱 learning modern front-end techs
 - 🤔 I’m looking for help with astrology
 - 💬 Ask me about [iztro](http://github.com/SylarLong/iztro)
 - ⚡ Fun fact: interested in Occultism
 
+<img src="https://github-stats.liuli.lol/api?username=SylarLong&theme=dark&show_icons=true&include_all_commits=true&count_private=true" align="right">
+
 ### How to reach me
 
 <a href = "mailto:sylarlong@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylarlong&layout=compact&theme=dark" align="right">
+
 
 ### Languages and Tools
 
