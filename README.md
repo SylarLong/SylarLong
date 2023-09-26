@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-I'm a ✨ _cats lover_ ✨
-
 <img src="https://github-stats.liuli.lol/api?username=SylarLong&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" align="right">
 
 - 🔭 working on some interests
 - 🌱 learning modern front-end techs
 - 🤔 I’m looking for help with astrology
 - 💬 Ask me about [iztro](http://github.com/SylarLong/iztro)
-- 📫 How to reach me: sylarlong@gmail.com
 - ⚡ Fun fact: interested in Occultism
+
+### How to reach me
+
+<a href = "mailto:sylarlong@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 ### Languages and Tools
 
