@@ -8,13 +8,11 @@
 - 💬 Ask me about [iztro](http://github.com/SylarLong/iztro)
 - ⚡ Fun fact: interested in Occultism
 
-<img src="https://github-stats.liuli.lol/api?username=SylarLong&theme=dark&show_icons=true&include_all_commits=true&count_private=true" align="right">
-
 ### How to reach me
 
 <a href = "mailto:sylarlong@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-
+<img src="https://github-stats.liuli.lol/api?username=SylarLong&theme=dark&show_icons=true&include_all_commits=true&count_private=true" align="right">
 
 ### Languages and Tools
 
