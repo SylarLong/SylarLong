@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylarlong&layout=compact&theme=dark" align="right">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylarlong&layout=compact&theme=dark" align="right" style="height:150px;">
 
 <img src="https://github-stats.liuli.lol/api?username=SylarLong&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs">
 
