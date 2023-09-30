@@ -37,4 +37,11 @@
 
 ### How to reach me
 
-<a href = "mailto:sylarlong@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+- Send emails to me:
+ 
+  <a href = "mailto:sylarlong@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+- Add me on WeChat:
+
+  ![image](https://github.com/SylarLong/SylarLong/assets/6510425/a2af4876-7d26-4900-a0fc-f5a2030f6205)
+
