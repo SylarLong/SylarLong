@@ -10,13 +10,6 @@
 
 <img src="https://github-stats.liuli.lol/api?username=SylarLong&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs">
 
-- 🔭 working on some interests like Zi Wei Dou Shu
-- 🌱 learning modern front-end techs
-- 🤔 I’m looking for help with astrology
-- 💬 Ask me about [iztro](http://github.com/SylarLong/iztro)
-- ⚡ Fun fact: interested in Occultism
-
-
 ### Languages and Tools
 
 <code><a href="https://github.com/topics/javascript" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
