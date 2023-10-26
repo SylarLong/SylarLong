@@ -3,7 +3,7 @@
 <h3 align="center" style="color: #fff">💖Visit Count💖</h3>
 <br>
 <p align="center">
-<a href="https://github.com/SylarLong/iztro"><img src="https://profile-counter.glitch.me/SyarLong/count.svg" alt="beautylouts :: beautylotus's Count" /></a>
+<a href="https://github.com/SylarLong/iztro"><img src="https://profile-counter.glitch.me/SyarLong/count.svg" alt="Visit Count" /></a>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylarlong&layout=compact&theme=dark" align="right" style="height:150px;">
