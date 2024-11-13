@@ -6,9 +6,9 @@
 <a href="https://github.com/SylarLong/iztro"><img src="https://profile-counter.glitch.me/SyarLong/count.svg" alt="Visit Count" /></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylarlong&layout=compact&theme=dark" align="right" style="height:150px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylarlong&layout=compact&theme=dark" align="right" style="height:195px;">
 
-<img src="https://gh-stats.senzyo.net/api?username=SylarLong&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,prs&rank_icon=percentile">
+<img src="https://github-readme-stats.vercel.app/api?username=SylarLong&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
 
 ### Languages and Tools
 
